@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿//DSA.Course._01_Mathematics.NumberOfDigits.Way01();
+//DSA.Course._01_Mathematics.NumberOfDigits.Way01();
+
+Console.WriteLine("Hey there, please uncomment appropriate line un Program.cs and run again.");
