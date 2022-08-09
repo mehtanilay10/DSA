@@ -10,5 +10,7 @@
 //DSA.Course._01_Mathematics._05_GCD.Way03();
 //DSA.Course._01_Mathematics._06_LCM.Way01();
 //DSA.Course._01_Mathematics._06_LCM.Way02();
+//DSA.Course._01_Mathematics._07_PrimeNumber.Way01();
+//DSA.Course._01_Mathematics._07_PrimeNumber.Way02();
 
 Console.WriteLine("Hey there, please uncomment appropriate line un Program.cs and run again.");
