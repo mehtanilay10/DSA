@@ -2,7 +2,7 @@
 
 namespace DSA.Course._01_Mathematics
 {
-    internal static class NumberOfDigits
+    internal static class _01_NumberOfDigits
     {
         internal static void Way01()
         {
