@@ -1,6 +1,6 @@
 ﻿using Helper;
 
-namespace DSA.Course._01_Mathematics
+namespace DSA.Course._01_Mathematics.Videos
 {
     internal class _10_PrimeRange
     {

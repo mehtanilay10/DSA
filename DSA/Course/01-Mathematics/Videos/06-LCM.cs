@@ -1,6 +1,6 @@
 ﻿using Helper;
 
-namespace DSA.Course._01_Mathematics
+namespace DSA.Course._01_Mathematics.Videos
 {
     internal static class _06_LCM
     {
