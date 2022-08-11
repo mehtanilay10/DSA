@@ -12,5 +12,12 @@
 //DSA.Course._01_Mathematics._06_LCM.Way02();
 //DSA.Course._01_Mathematics._07_PrimeNumber.Way01();
 //DSA.Course._01_Mathematics._07_PrimeNumber.Way02();
+//DSA.Course._01_Mathematics._08_FactorsOfNumber.Way01();
+//DSA.Course._01_Mathematics._08_FactorsOfNumber.Way02();
+//DSA.Course._01_Mathematics._08_FactorsOfNumber.Way03();
+//DSA.Course._01_Mathematics._09_PrimeFactors.Way01();
+//DSA.Course._01_Mathematics._09_PrimeFactors.Way02();
+//DSA.Course._01_Mathematics._10_PrimeRange.Way01();
+//DSA.Course._01_Mathematics._10_PrimeRange.Way02();
 
 Console.WriteLine("Hey there, please uncomment appropriate line un Program.cs and run again.");

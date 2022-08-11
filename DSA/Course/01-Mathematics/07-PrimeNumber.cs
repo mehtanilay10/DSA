@@ -59,7 +59,7 @@ namespace DSA.Course._01_Mathematics
             else if (number == 2 || number == 3)
                 isPrime = true;
             else if (number % 2 == 0 || number % 3 == 0)
-                isPrime |= false;
+                isPrime = false;
             else
             {
                 // Now we just have to loop through only 6N+1 & 6N-1 items
