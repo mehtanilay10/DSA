@@ -36,9 +36,9 @@ namespace DSA.Course._01_Mathematics.Videos
             else
             {
                 // Now we just have to loop through only 6N+1 & 6N-1 items
-                for (int i = 5; i * i < number; i += 6)
+                for (int i = 5; i * i <= number; i += 6)
                 {
-                    if (number % i == 0 || (number + 2) % i == 0)
+                    if (number % i == 0 || number % (i + 2) == 0)
                     {
                         isPrime = false;
                         break;
