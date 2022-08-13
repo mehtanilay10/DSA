@@ -31,5 +31,7 @@
 //DSA.Course._01_Mathematics.Problems._05_GeometricProgressions.Way01();
 //DSA.Course._01_Mathematics.Problems._06_Exactly3Divisors.Way01();
 //DSA.Course._01_Mathematics.Problems._07_AdditionUnderModulo.Way01();
+//DSA.Course._01_Mathematics.Problems._08_MultiplicationUnderModulo.Way01();
+//DSA.Course._01_Mathematics.Problems._09_ModularMultiplicativeInverse.Way01();
 
 Console.WriteLine("Hey there, please uncomment appropriate line un Program.cs and run again.");
