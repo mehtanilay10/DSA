@@ -31,7 +31,7 @@ namespace DSA.Course._01_Mathematics.Problems
     //1 ≤ N ≤ 105
     internal static class _04_DigitsInFactorial
     {
-        // There is formula for this - f(x) = n* log10(( n/ e)) + log10(2*pi*n)/2
+        // There is formula for this - f(x) = n * log10((n/ e)) + log10(2*pi*n)/2
         internal static void Way01()
         {
             int number = ConsoleHelper.ReadInteger();
@@ -42,7 +42,6 @@ namespace DSA.Course._01_Mathematics.Problems
 
             Console.WriteLine(Math.Floor(counts) + 1);
         }
-
 
         // There is formula for this - floor(log10(N)+1);
         internal static void Way02()

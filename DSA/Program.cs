@@ -34,4 +34,6 @@
 //DSA.Course._01_Mathematics.Problems._08_MultiplicationUnderModulo.Way01();
 //DSA.Course._01_Mathematics.Problems._09_ModularMultiplicativeInverse.Way01();
 
+//DSA.Course._02_Bitwise.Videos._01_BitwiseOperators.Way01();
+
 Console.WriteLine("Hey there, please uncomment appropriate line un Program.cs and run again.");

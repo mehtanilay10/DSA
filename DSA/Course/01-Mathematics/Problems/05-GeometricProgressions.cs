@@ -35,7 +35,7 @@ namespace DSA.Course._01_Mathematics.Problems
     //1 <= N <= 5
     internal static class _05_GeometricProgressions
     {
-        // There is formula for this - A + ((B-A)^(N-1))
+        // There is formula for this - A + ((B/A)^(N-1))
         internal static void Way01()
         {
             int a = ConsoleHelper.ReadInteger("A");
