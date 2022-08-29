@@ -35,5 +35,9 @@
 //DSA.Course._01_Mathematics.Problems._09_ModularMultiplicativeInverse.Way01();
 
 //DSA.Course._02_Bitwise.Videos._01_BitwiseOperators.Way01();
+//DSA.Course._02_Bitwise.Videos._02_CheckKthBitSetOrNot.Way01();
+//DSA.Course._02_Bitwise.Videos._02_CheckKthBitSetOrNot.Way02();
+//DSA.Course._02_Bitwise.Videos._03_CountSettedBits.Way01();
+//DSA.Course._02_Bitwise.Videos._03_CountSettedBits.Way02();
 
 Console.WriteLine("Hey there, please uncomment appropriate line un Program.cs and run again.");
