@@ -39,5 +39,7 @@
 //DSA.Course._02_Bitwise.Videos._02_CheckKthBitSetOrNot.Way02();
 //DSA.Course._02_Bitwise.Videos._03_CountSettedBits.Way01();
 //DSA.Course._02_Bitwise.Videos._03_CountSettedBits.Way02();
+//DSA.Course._02_Bitwise.Videos._03_CountSettedBits.Way03();
+//DSA.Course._02_Bitwise.Videos._03_CountSettedBits.Way04();
 
 Console.WriteLine("Hey there, please uncomment appropriate line un Program.cs and run again.");
