@@ -22,5 +22,12 @@
             ulong num = ulong.Parse(Console.ReadLine());
             return num;
         }
+
+        public static string ReadString(string text = "Text")
+        {
+            Console.WriteLine($"Enter {text}");
+            string value = Console.ReadLine();
+            return value;
+        }
     }
 }

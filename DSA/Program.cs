@@ -41,5 +41,15 @@
 //DSA.Course._02_Bitwise.Videos._03_CountSettedBits.Way02();
 //DSA.Course._02_Bitwise.Videos._03_CountSettedBits.Way03();
 //DSA.Course._02_Bitwise.Videos._03_CountSettedBits.Way04();
+//DSA.Course._02_Bitwise.Videos._04_PowerOfTwo.Way01();
+//DSA.Course._02_Bitwise.Videos._04_PowerOfTwo.Way02();
+//DSA.Course._02_Bitwise.Videos._04_PowerOfTwo.Way03();
+//DSA.Course._02_Bitwise.Videos._05_OddOneOccurringInArray.Way01();
+//DSA.Course._02_Bitwise.Videos._05_OddOneOccurringInArray.Way02();
+//DSA.Course._02_Bitwise.Videos._06_FindMissingNumberInArray.Way01();
+//DSA.Course._02_Bitwise.Videos._06_FindMissingNumberInArray.Way02();
+//DSA.Course._02_Bitwise.Videos._07_OddTwoOccurringInArray.Way01();
+//DSA.Course._02_Bitwise.Videos._07_OddTwoOccurringInArray.Way02();
+//DSA.Course._02_Bitwise.Videos._08_PowerSet.Way01();
 
 Console.WriteLine("Hey there, please uncomment appropriate line un Program.cs and run again.");
