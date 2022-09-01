@@ -52,4 +52,12 @@
 //DSA.Course._02_Bitwise.Videos._07_OddTwoOccurringInArray.Way02();
 //DSA.Course._02_Bitwise.Videos._08_PowerSet.Way01();
 
-Console.WriteLine("Hey there, please uncomment appropriate line un Program.cs and run again.");
+//DSA.Course._02_Bitwise.Problems._01_FindFirstSetBit.Way01();
+//DSA.Course._02_Bitwise.Problems._01_FindFirstSetBit.Way02();
+//DSA.Course._02_Bitwise.Problems._02_FindRightMostDifferentBit.Way01();
+//DSA.Course._02_Bitwise.Problems._02_FindRightMostDifferentBit.Way02();
+//DSA.Course._02_Bitwise.Problems._02_FindRightMostDifferentBit.Way03();
+//DSA.Course._02_Bitwise.Problems._03_CountTotalSetBits.Way01();
+//DSA.Course._02_Bitwise.Problems._03_CountTotalSetBits.Way02();
+
+Console.WriteLine("Hey there, please uncomment appropriate method's call in Program.cs and run again.");
