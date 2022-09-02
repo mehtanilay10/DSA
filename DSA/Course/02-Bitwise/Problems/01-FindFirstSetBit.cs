@@ -53,7 +53,6 @@ namespace DSA.Course._02_Bitwise.Problems
             }
         }
 
-        // Not based on bitwise operator
         internal static void Way02()
         {
             int number = ConsoleHelper.ReadInteger();

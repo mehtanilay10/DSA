@@ -59,5 +59,13 @@
 //DSA.Course._02_Bitwise.Problems._02_FindRightMostDifferentBit.Way03();
 //DSA.Course._02_Bitwise.Problems._03_CountTotalSetBits.Way01();
 //DSA.Course._02_Bitwise.Problems._03_CountTotalSetBits.Way02();
+//DSA.Course._02_Bitwise.Problems._04_CountBitsFlip.Way01();
+//DSA.Course._02_Bitwise.Problems._04_CountBitsFlip.Way02();
+//DSA.Course._02_Bitwise.Problems._04_CountBitsFlip.Way03();
+//DSA.Course._02_Bitwise.Problems._05_SparseNumber.Way01();
+//DSA.Course._02_Bitwise.Problems._05_SparseNumber.Way02();
+//DSA.Course._02_Bitwise.Problems._05_SparseNumber.Way03();
+//DSA.Course._02_Bitwise.Problems._06_MaxConsecutiveOnes.Way01();
+//DSA.Course._02_Bitwise.Problems._06_MaxConsecutiveOnes.Way02();
 
 Console.WriteLine("Hey there, please uncomment appropriate method's call in Program.cs and run again.");
