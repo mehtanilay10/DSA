@@ -96,6 +96,9 @@
 //DSA.Course._03_Recursion.Videos._06_NaturalNumberSum.Way01();
 //DSA.Course._03_Recursion.Videos._06_NaturalNumberSum.Way02();
 //DSA.Course._03_Recursion.Videos._07_PalindromeString.Way01();
+//DSA.Course._03_Recursion.Videos._08_SumOfDigits.Way01();
+//DSA.Course._03_Recursion.Videos._09_RopeCuttingProblem.Way01();
+//DSA.Course._03_Recursion.Videos._10_GenerateSubset.Way01();
 
 #endregion
 
