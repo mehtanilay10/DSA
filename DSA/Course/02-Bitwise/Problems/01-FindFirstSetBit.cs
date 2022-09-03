@@ -30,7 +30,8 @@ namespace DSA.Course._02_Bitwise.Problems
     internal static class _01_FindFirstSetBit
     {
         // With bitwise operator
-        // Time complexity - O(n), Space complexity O(1)
+        // Time complexity - O(n)
+        // Auxiliary Space - O(1)
         internal static void Way01()
         {
             int number = ConsoleHelper.ReadInteger();

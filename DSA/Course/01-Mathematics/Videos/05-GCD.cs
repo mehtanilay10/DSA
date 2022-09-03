@@ -4,7 +4,7 @@ namespace DSA.Course._01_Mathematics.Videos
 {
     internal static class _05_GCD
     {
-        // Time complexity: O(min(n1, n2))
+        // Time complexity - O(min(n1, n2))
         internal static void Way01()
         {
             int num1 = ConsoleHelper.ReadInteger();

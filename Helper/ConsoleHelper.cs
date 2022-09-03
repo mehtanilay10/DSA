@@ -31,7 +31,7 @@
 
         public static string ReadString(string text = "Text")
         {
-            Console.WriteLine($"Enter {text}");
+            Console.Write($"Enter {text}: ");
             string value = Console.ReadLine();
             return value;
         }

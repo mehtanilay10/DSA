@@ -19,7 +19,8 @@ namespace DSA.Course._01_Mathematics.Videos
             Console.WriteLine($"Number: {number}, Power: {power}, Value: {value}");
         }
 
-        // Time complexity - T(n) = T(n/2) + O(1)
+        // T(n) = T(n/2) + O(1)
+        // Time complexity - O(n)
         // Auxilary space - O(n)
         internal static void Way02()
         {

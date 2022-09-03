@@ -4,7 +4,8 @@ namespace DSA.Course._01_Mathematics.Videos
 {
     internal static class _03_FactorialOfNumber
     {
-        // Time complexity - O(n), Auxilary Space complexity - O(1)
+        // Time complexity - O(n)
+        // Auxiliary Space - O(1)
         internal static void Way01()
         {
             int number = ConsoleHelper.ReadInteger();
@@ -18,7 +19,8 @@ namespace DSA.Course._01_Mathematics.Videos
             Console.WriteLine($"Factorial of {number} is {factorial}.");
         }
 
-        // Tome complexity - O(n), Auxilary Space complexity - O(n)
+        // Tome complexity - O(n)
+        // Auxiliary Space - O(n)
         internal static void Way02()
         {
             int number = ConsoleHelper.ReadInteger();

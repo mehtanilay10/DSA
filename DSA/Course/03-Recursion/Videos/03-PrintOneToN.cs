@@ -4,8 +4,9 @@ namespace DSA.Course._03_Recursion.Videos
 {
     internal static class _03_PrintOneToN
     {
-        // Time complexity - T(n) = T(n-1) + θ(1)
-        // Space complexity - O(n)
+        // T(n) = T(n-1) + θ(1)
+        // Time complexity - O(n)
+        // Auxiliary Space - O(n)
         internal static void Way01()
         {
             int number = ConsoleHelper.ReadInteger();
@@ -21,8 +22,9 @@ namespace DSA.Course._03_Recursion.Videos
             Console.WriteLine(number);
         }
 
-        // Time complexity - T(n) = T(n-1) + θ(1)
-        // Space complexity - O(n)
+        // T(n) = T(n-1) + θ(1)
+        // Time complexity - O(n)
+        // Auxiliary Space - O(n)
         // Based on Tail Recursion (Performs better than Way01 solution)
         internal static void Way02()
         {
