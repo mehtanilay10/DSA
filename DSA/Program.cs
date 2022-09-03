@@ -67,5 +67,11 @@
 //DSA.Course._02_Bitwise.Problems._05_SparseNumber.Way03();
 //DSA.Course._02_Bitwise.Problems._06_MaxConsecutiveOnes.Way01();
 //DSA.Course._02_Bitwise.Problems._06_MaxConsecutiveOnes.Way02();
+//DSA.Course._02_Bitwise.Problems._07_BinaryToGrayCode.Way01();
+//DSA.Course._02_Bitwise.Problems._08_GrayCodeToBinary.Way01();
+//DSA.Course._02_Bitwise.Problems._09_SwapOddAndEvenBits.Way01();
+
+//DSA.Additional._02_Bitwise._01_SwapTwoNumbers.Way01();
+//DSA.Additional._02_Bitwise._01_SwapTwoNumbers.Way02();
 
 Console.WriteLine("Hey there, please uncomment appropriate method's call in Program.cs and run again.");

@@ -9,6 +9,12 @@
             return num;
         }
 
+        public static uint ReadUInt(string text = "Number")
+        {
+            Console.Write($"Enter {text}: ");
+            uint num = uint.Parse(Console.ReadLine());
+            return num;
+        }
         public static double ReadDouble(string text = "Number")
         {
             Console.Write($"Enter {text}: ");

@@ -52,7 +52,7 @@ namespace DSA.Course._02_Bitwise.Problems
             // Check after entire processing
             logestCount = Math.Max(currentCount, logestCount);
 
-            Console.WriteLine($"Maximum consecutive ones - {count}");
+            Console.WriteLine($"Maximum consecutive ones - {logestCount}");
         }
 
         internal static void Way02()
