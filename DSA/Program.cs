@@ -84,4 +84,13 @@
 
 #endregion
 
+#region Recursion
+
+//DSA.Course._03_Recursion.Videos._01_DecimalToBinary.Way01();
+//DSA.Course._03_Recursion.Videos._02_PrintNToOne.Way01();
+//DSA.Course._03_Recursion.Videos._03_PrintOneToN.Way01();
+//DSA.Course._03_Recursion.Videos._03_PrintOneToN.Way02();
+
+#endregion
+
 Console.WriteLine("Hey there, please uncomment appropriate method's call in Program.cs and run again.");
