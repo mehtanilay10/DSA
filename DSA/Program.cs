@@ -1,4 +1,6 @@
-﻿//DSA.Course._01_Mathematics.Videos._01_NumberOfDigits.Way01();
+﻿#region Mathematics
+
+//DSA.Course._01_Mathematics.Videos._01_NumberOfDigits.Way01();
 //DSA.Course._01_Mathematics.Videos._01_NumberOfDigits.Way01();
 //DSA.Course._01_Mathematics.Videos._02_PalindromeNumber.Way01();
 //DSA.Course._01_Mathematics.Videos._03_FactorialOfNumber.Way01();
@@ -33,6 +35,10 @@
 //DSA.Course._01_Mathematics.Problems._07_AdditionUnderModulo.Way01();
 //DSA.Course._01_Mathematics.Problems._08_MultiplicationUnderModulo.Way01();
 //DSA.Course._01_Mathematics.Problems._09_ModularMultiplicativeInverse.Way01();
+
+#endregion
+
+#region Bitwise
 
 //DSA.Course._02_Bitwise.Videos._01_BitwiseOperators.Way01();
 //DSA.Course._02_Bitwise.Videos._02_CheckKthBitSetOrNot.Way01();
@@ -73,5 +79,9 @@
 
 //DSA.Additional._02_Bitwise._01_SwapTwoNumbers.Way01();
 //DSA.Additional._02_Bitwise._01_SwapTwoNumbers.Way02();
+//DSA.Additional._02_Bitwise._02_FindMostSignificantSetBit.Way01();
+//DSA.Additional._02_Bitwise._02_FindMostSignificantSetBit.Way02();
+
+#endregion
 
 Console.WriteLine("Hey there, please uncomment appropriate method's call in Program.cs and run again.");
