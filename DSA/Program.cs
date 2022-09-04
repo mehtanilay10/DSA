@@ -112,6 +112,7 @@
 //DSA.Course._03_Recursion.Problems._03_LuckyNumber.Way01();
 //DSA.Course._03_Recursion.Problems._04_Power.Way01();
 //DSA.Course._03_Recursion.Problems._05_PowerOfNumbers.Way01();
+//DSA.Course._03_Recursion.Problems._06_PossibleWordsFromPhoneDigits.Way01();
 
 #endregion
 
