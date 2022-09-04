@@ -99,6 +99,19 @@
 //DSA.Course._03_Recursion.Videos._08_SumOfDigits.Way01();
 //DSA.Course._03_Recursion.Videos._09_RopeCuttingProblem.Way01();
 //DSA.Course._03_Recursion.Videos._10_GenerateSubset.Way01();
+//DSA.Course._03_Recursion.Videos._11_TowerOfHanoi.Way01();
+//DSA.Course._03_Recursion.Videos._11_TowerOfHanoi.Way02();
+//DSA.Course._03_Recursion.Videos._12_JosephusProblem.Way01();
+//DSA.Course._03_Recursion.Videos._12_JosephusProblem.Way02();
+//DSA.Course._03_Recursion.Videos._13_SubsetSum.Way01();
+//DSA.Course._03_Recursion.Videos._13_SubsetSum.Way02();
+
+//DSA.Course._03_Recursion.Problems._01_CountDigitsInNumber.Way01();
+//DSA.Course._03_Recursion.Problems._02_DigitalRoot.Way01();
+//DSA.Course._03_Recursion.Problems._02_DigitalRoot.Way02();
+//DSA.Course._03_Recursion.Problems._03_LuckyNumber.Way01();
+//DSA.Course._03_Recursion.Problems._04_Power.Way01();
+//DSA.Course._03_Recursion.Problems._05_PowerOfNumbers.Way01();
 
 #endregion
 
