@@ -116,4 +116,13 @@
 
 #endregion
 
+#region Array
+
+//DSA.Course._04_Array._01_LargestElementInArray.Way01();
+//DSA.Course._04_Array._01_LargestElementInArray.Way02();
+//DSA.Course._04_Array._02_SecondLargestElementIndexInArray.Way01();
+//DSA.Course._04_Array._02_SecondLargestElementIndexInArray.Way02();
+
+#endregion
+
 Console.WriteLine("Hey there, please uncomment appropriate method's call in Program.cs and run again.");
