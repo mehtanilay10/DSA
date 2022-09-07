@@ -35,5 +35,11 @@
             string value = Console.ReadLine();
             return value;
         }
+
+        public static void PrintArray(int[] array)
+        {
+            for (int i = 0; i < array.Length; i++)
+                Console.WriteLine(array[i]);
+        }
     }
 }

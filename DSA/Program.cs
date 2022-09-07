@@ -122,6 +122,13 @@
 //DSA.Course._04_Array._01_LargestElementInArray.Way02();
 //DSA.Course._04_Array._02_SecondLargestElementIndexInArray.Way01();
 //DSA.Course._04_Array._02_SecondLargestElementIndexInArray.Way02();
+//DSA.Course._04_Array._03_CheckIfArrayIsSorted.Way01();
+//DSA.Course._04_Array._03_CheckIfArrayIsSorted.Way02();
+//DSA.Course._04_Array._04_ReverseAnArray.Way01();
+//DSA.Course._04_Array._04_ReverseAnArray.Way02();
+//DSA.Course._04_Array._05_RemoveDuplicatesFromSortedArray.Way01();
+//DSA.Course._04_Array._05_RemoveDuplicatesFromSortedArray.Way02();
+//DSA.Course._04_Array._05_RemoveDuplicatesFromSortedArray.Way03();
 
 #endregion
 
