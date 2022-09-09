@@ -129,6 +129,12 @@
 //DSA.Course._04_Array._05_RemoveDuplicatesFromSortedArray.Way01();
 //DSA.Course._04_Array._05_RemoveDuplicatesFromSortedArray.Way02();
 //DSA.Course._04_Array._05_RemoveDuplicatesFromSortedArray.Way03();
+//DSA.Course._04_Array._06_MoveZerosToEnd.Way01();
+//DSA.Course._04_Array._06_MoveZerosToEnd.Way02();
+//DSA.Course._04_Array._07_LeftRotateArrayByOne.Way01();
+//DSA.Course._04_Array._08_LeftRotateArrayByDPlaces.Way01();
+//DSA.Course._04_Array._08_LeftRotateArrayByDPlaces.Way02();
+//DSA.Course._04_Array._08_LeftRotateArrayByDPlaces.Way03();
 
 #endregion
 
