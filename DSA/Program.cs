@@ -135,6 +135,12 @@
 //DSA.Course._04_Array._08_LeftRotateArrayByDPlaces.Way01();
 //DSA.Course._04_Array._08_LeftRotateArrayByDPlaces.Way02();
 //DSA.Course._04_Array._08_LeftRotateArrayByDPlaces.Way03();
+//DSA.Course._04_Array._09_LeadersInArray.Way01();
+//DSA.Course._04_Array._09_LeadersInArray.Way02();
+//DSA.Course._04_Array._10_MaximumDifference.Way01();
+//DSA.Course._04_Array._10_MaximumDifference.Way02();
+//DSA.Course._04_Array._11_FrequenciesInSortedArray.Way01();
+//DSA.Course._04_Array._11_FrequenciesInSortedArray.Way02();
 
 #endregion
 
