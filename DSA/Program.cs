@@ -141,6 +141,10 @@
 //DSA.Course._04_Array._10_MaximumDifference.Way02();
 //DSA.Course._04_Array._11_FrequenciesInSortedArray.Way01();
 //DSA.Course._04_Array._11_FrequenciesInSortedArray.Way02();
+//DSA.Course._04_Array._12_StockBuyAndSell.Way01();
+//DSA.Course._04_Array._12_StockBuyAndSell.Way02();
+//DSA.Course._04_Array._13_TrappingRainWater.Way01();
+//DSA.Course._04_Array._13_TrappingRainWater.Way02();
 
 #endregion
 
