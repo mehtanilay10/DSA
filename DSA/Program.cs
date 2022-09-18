@@ -145,6 +145,15 @@
 //DSA.Course._04_Array._12_StockBuyAndSell.Way02();
 //DSA.Course._04_Array._13_TrappingRainWater.Way01();
 //DSA.Course._04_Array._13_TrappingRainWater.Way02();
+//DSA.Course._04_Array._14_MaximumConsecutiveOnes.Way01();
+//DSA.Course._04_Array._14_MaximumConsecutiveOnes.Way02();
+//DSA.Course._04_Array._14_MaximumConsecutiveOnes.Way03();
+//DSA.Course._04_Array._15_MaximumSubarraySum.Way01();
+//DSA.Course._04_Array._15_MaximumSubarraySum.Way02();
+//DSA.Course._04_Array._16_LongestEvenOddSubarray.Way01();
+//DSA.Course._04_Array._16_LongestEvenOddSubarray.Way02();
+//DSA.Course._04_Array._16_LongestEvenOddSubarray.Way03();
+//DSA.Course._04_Array._17_MaximumCircularSumSubarray.Way01();
 
 #endregion
 
