@@ -154,6 +154,7 @@
 //DSA.Course._04_Array._16_LongestEvenOddSubarray.Way02();
 //DSA.Course._04_Array._16_LongestEvenOddSubarray.Way03();
 //DSA.Course._04_Array._17_MaximumCircularSumSubarray.Way01();
+DSA.Course._04_Array._17_MaximumCircularSumSubarray.Way02();
 
 #endregion
 
