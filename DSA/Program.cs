@@ -164,6 +164,10 @@
 //DSA.Course._04_Array._21_SubarrayWithGivenSum.Way01();
 //DSA.Course._04_Array._21_SubarrayWithGivenSum.Way02();
 //DSA.Course._04_Array._21_SubarrayWithGivenSum.Way03();
+//DSA.Course._04_Array._22_PrefixSum.Way01();
+//DSA.Course._04_Array._22_PrefixSum.Way02();
+//DSA.Course._04_Array._23_WeightedPrefixSum.Way01();
+//DSA.Course._04_Array._23_WeightedPrefixSum.Way02();
 
 #endregion
 
