@@ -154,7 +154,16 @@
 //DSA.Course._04_Array._16_LongestEvenOddSubarray.Way02();
 //DSA.Course._04_Array._16_LongestEvenOddSubarray.Way03();
 //DSA.Course._04_Array._17_MaximumCircularSumSubarray.Way01();
-DSA.Course._04_Array._17_MaximumCircularSumSubarray.Way02();
+//DSA.Course._04_Array._17_MaximumCircularSumSubarray.Way02();
+//DSA.Course._04_Array._18_MajorityElement.Way01();
+//DSA.Course._04_Array._18_MajorityElement.Way02();
+//DSA.Course._04_Array._19_MinimumConsecutiveFlips.Way01();
+//DSA.Course._04_Array._19_MinimumConsecutiveFlips.Way02();
+//DSA.Course._04_Array._20_SlidingWindowTechnique.Way01();
+//DSA.Course._04_Array._20_SlidingWindowTechnique.Way02();
+//DSA.Course._04_Array._21_SubarrayWithGivenSum.Way01();
+//DSA.Course._04_Array._21_SubarrayWithGivenSum.Way02();
+//DSA.Course._04_Array._21_SubarrayWithGivenSum.Way03();
 
 #endregion
 
