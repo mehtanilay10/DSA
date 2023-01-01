@@ -168,6 +168,13 @@
 //DSA.Course._04_Array._22_PrefixSum.Way02();
 //DSA.Course._04_Array._23_WeightedPrefixSum.Way01();
 //DSA.Course._04_Array._23_WeightedPrefixSum.Way02();
+//DSA.Course._04_Array._24_EquilibriumPoint.Way01();
+//DSA.Course._04_Array._24_EquilibriumPoint.Way02();
+//DSA.Course._04_Array._24_EquilibriumPoint.Way03();
+//DSA.Course._04_Array._25_ArrayPartitionInEqualParts.Way01();
+//DSA.Course._04_Array._25_ArrayPartitionInEqualParts.Way02();
+//DSA.Course._04_Array._26_MaximumAppearingElement.Way01();
+//DSA.Course._04_Array._26_MaximumAppearingElement.Way02();
 
 #endregion
 
