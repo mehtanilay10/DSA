@@ -176,6 +176,17 @@
 //DSA.Course._04_Array._26_MaximumAppearingElement.Way01();
 //DSA.Course._04_Array._26_MaximumAppearingElement.Way02();
 
+//DSA.Course._04_Array.Problems._01_ArrayInsertAtEnd.Way01();
+//DSA.Course._04_Array.Problems._02_ArrayInsertAtIndex.Way01();
+//DSA.Course._04_Array.Problems._03_MaximumIndex.Way01();
+//DSA.Course._04_Array.Problems._03_MaximumIndex.Way02();
+//DSA.Course._04_Array.Problems._03_MaximumIndex.Way03();
+//DSA.Course._04_Array.Problems._03_MaximumIndex.Way04();
+//DSA.Course._04_Array.Problems._04_MaxAndSecondMax.Way01();
+//DSA.Course._04_Array.Problems._05_ReverseInGroup.Way01();
+//DSA.Course._04_Array.Problems._05_ReverseInGroup.Way02();
+//DSA.Course._04_Array.Problems._05_ReverseInGroup.Way03();
+
 #endregion
 
 Console.WriteLine("Hey there, please uncomment appropriate method's call in Program.cs and run again.");
