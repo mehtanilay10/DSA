@@ -186,6 +186,11 @@
 //DSA.Course._04_Array.Problems._05_ReverseInGroup.Way01();
 //DSA.Course._04_Array.Problems._05_ReverseInGroup.Way02();
 //DSA.Course._04_Array.Problems._05_ReverseInGroup.Way03();
+//DSA.Course._04_Array.Problems._06_RotateArray.Way01();
+//DSA.Course._04_Array.Problems._07_LeadersInArray.Way01();
+//DSA.Course._04_Array.Problems._08_StockBuyAndSell.Way01();
+//DSA.Course._04_Array.Problems._08_StockBuyAndSell.Way02();
+//DSA.Course._04_Array.Problems._09_TrappingRainWater.Way01();
 
 #endregion
 
