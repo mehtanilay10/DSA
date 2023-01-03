@@ -191,6 +191,10 @@
 //DSA.Course._04_Array.Problems._08_StockBuyAndSell.Way01();
 //DSA.Course._04_Array.Problems._08_StockBuyAndSell.Way02();
 //DSA.Course._04_Array.Problems._09_TrappingRainWater.Way01();
+//DSA.Course._04_Array.Problems._10_MeanAndMedianOfArray.Way01();
+//DSA.Course._04_Array.Problems._11_WhoHasTheMajority.Way01();
+//DSA.Course._04_Array.Problems._12_StrongestNeighbour.Way01();
+//DSA.Course._04_Array.Problems._13_MinimumAdjacentDifferenceInCircularArray.Way01();
 
 #endregion
 
