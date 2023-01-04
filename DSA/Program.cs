@@ -195,6 +195,8 @@
 //DSA.Course._04_Array.Problems._11_WhoHasTheMajority.Way01();
 //DSA.Course._04_Array.Problems._12_StrongestNeighbour.Way01();
 //DSA.Course._04_Array.Problems._13_MinimumAdjacentDifferenceInCircularArray.Way01();
+//DSA.Course._04_Array.Problems._14_MaximumOccuredInteger.Way01();
+//DSA.Course._04_Array.Problems._15_WaveArray.Way01();
 
 #endregion
 
