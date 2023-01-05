@@ -197,6 +197,11 @@
 //DSA.Course._04_Array.Problems._13_MinimumAdjacentDifferenceInCircularArray.Way01();
 //DSA.Course._04_Array.Problems._14_MaximumOccuredInteger.Way01();
 //DSA.Course._04_Array.Problems._15_WaveArray.Way01();
+//DSA.Course._04_Array.Problems._16_FrequenciesOfArrayElements.Way01();
+//DSA.Course._04_Array.Problems._16_FrequenciesOfArrayElements.Way02();
+//DSA.Course._04_Array.Problems._16_FrequenciesOfArrayElements.Way03();
+//DSA.Course._04_Array.Problems._17_SmallestPositiveMissingNumber.Way01();
+//DSA.Course._04_Array.Problems._18_RearrangeArrayAlternately.Way01();
 
 #endregion
 

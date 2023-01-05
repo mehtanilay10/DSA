@@ -43,8 +43,8 @@
     //0 ≤ L[i], R[i] ≤ 10^6
     internal static class _14_MaximumOccuredInteger
     {
-        // Time Complexity: O(n+max).
-        // Auxiliary Space: O(max).
+        // Time Complexity: O(n+max)
+        // Auxiliary Space: O(max)
         internal static void Way01()
         {
             int[] leftArray = new int[] { 1, 4, 3, 1 };
