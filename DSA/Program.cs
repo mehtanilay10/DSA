@@ -202,6 +202,8 @@
 //DSA.Course._04_Array.Problems._16_FrequenciesOfArrayElements.Way03();
 //DSA.Course._04_Array.Problems._17_SmallestPositiveMissingNumber.Way01();
 //DSA.Course._04_Array.Problems._18_RearrangeArrayAlternately.Way01();
+// DSA.Course._04_Array.Problems._19_RearrangeArrayWithExtraSpace.Way01();
+// DSA.Course._04_Array.Problems._19_RearrangeArrayWithExtraSpace.Way02();
 
 #endregion
 
