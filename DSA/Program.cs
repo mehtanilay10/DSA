@@ -208,7 +208,15 @@
 //DSA.Course._04_Array.Problems._20_CheckArrayIsSortedAndRotated.Way02();
 //DSA.Course._04_Array.Problems._21_KadaneAlgorithm.Way01();
 //DSA.Course._04_Array.Problems._21_KadaneAlgorithm.Way02();
-DSA.Course._04_Array.Problems._22_GameOfChocolates.Way01();
+//DSA.Course._04_Array.Problems._22_GameOfChocolates.Way01();
+
+#endregion
+
+#region Search
+
+//DSA.Course._05_Search.Videos._01_LinearSearch.Way01();
+//DSA.Course._05_Search.Videos._02_BinarySearchIterative.Way01();
+DSA.Course._05_Search.Videos._03_BinarySearchRecursive.Way01();
 
 #endregion
 
