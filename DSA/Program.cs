@@ -208,7 +208,9 @@
 //DSA.Course._04_Array.Problems._20_CheckArrayIsSortedAndRotated.Way02();
 //DSA.Course._04_Array.Problems._21_KadaneAlgorithm.Way01();
 //DSA.Course._04_Array.Problems._21_KadaneAlgorithm.Way02();
-DSA.Course._04_Array.Problems._22_GameOfChocolates.Way01();
+//DSA.Course._04_Array.Problems._22_GameOfChocolates.Way01();
+//DSA.Course._04_Array.Problems._23_DivideAndSubtractGame.Way01();
+//DSA.Course._04_Array.Problems._24_FractionTrouble.Way01();
 
 #endregion
 
