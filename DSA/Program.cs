@@ -35,6 +35,7 @@
 //DSA.Course._01_Mathematics.Problems._07_AdditionUnderModulo.Way01();
 //DSA.Course._01_Mathematics.Problems._08_MultiplicationUnderModulo.Way01();
 //DSA.Course._01_Mathematics.Problems._09_ModularMultiplicativeInverse.Way01();
+//DSA.Course._01_Mathematics.Problems._10_MatchsticksGame.Way01();
 
 #endregion
 
@@ -113,6 +114,8 @@
 //DSA.Course._03_Recursion.Problems._04_Power.Way01();
 //DSA.Course._03_Recursion.Problems._05_PowerOfNumbers.Way01();
 //DSA.Course._03_Recursion.Problems._06_PossibleWordsFromPhoneDigits.Way01();
+//DSA.Course._03_Recursion.Problems._07_FindSafePosition.Way01();
+//DSA.Course._03_Recursion.Problems._07_FindSafePosition.Way02();
 
 #endregion
 
