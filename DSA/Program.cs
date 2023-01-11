@@ -219,4 +219,12 @@
 
 #endregion
 
+#region Search
+
+//DSA.Course._05_Search.Videos._01_LinearSearch.Way01();
+//DSA.Course._05_Search.Videos._02_BinarySearchIterative.Way01();
+//DSA.Course._05_Search.Videos._03_BinarySearchRecursive.Way01();
+
+#endregion
+
 Console.WriteLine("Hey there, please uncomment appropriate method's call in Program.cs and run again.");
