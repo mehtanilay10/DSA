@@ -2,39 +2,27 @@
 {
     public static class ConsoleHelper
     {
-        public static int ReadInteger(string text = "Number")
-        {
-            Console.Write($"Enter {text}: ");
-            int num = int.Parse(Console.ReadLine());
-            return num;
-        }
-
-        public static uint ReadUInt(string text = "Number")
-        {
-            Console.Write($"Enter {text}: ");
-            uint num = uint.Parse(Console.ReadLine());
-            return num;
-        }
-        public static double ReadDouble(string text = "Number")
-        {
-            Console.Write($"Enter {text}: ");
-            double num = double.Parse(Console.ReadLine());
-            return num;
-        }
-
-        public static ulong ReadULong(string text = "Number")
-        {
-            Console.Write($"Enter {text}: ");
-            ulong num = ulong.Parse(Console.ReadLine());
-            return num;
-        }
-
         public static string ReadString(string text = "Text")
         {
             Console.Write($"Enter {text}: ");
-            string value = Console.ReadLine();
+            string value = Console.ReadLine() ?? string.Empty;
             return value;
         }
+
+        public static int ReadInteger(string text = "Number")
+            => int.Parse(ReadString(text));
+
+        public static uint ReadUInt(string text = "Number")
+            => uint.Parse(ReadString(text));
+
+        public static double ReadDouble(string text = "Number")
+            => double.Parse(ReadString(text));
+
+        public static long ReadLong(string text = "Number")
+            => long.Parse(ReadString(text));
+
+        public static ulong ReadULong(string text = "Number")
+            => ulong.Parse(ReadString(text));
 
         public static void PrintArray(int[] array)
         {
