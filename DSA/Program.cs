@@ -36,6 +36,7 @@
 //DSA.Course._01_Mathematics.Problems._08_MultiplicationUnderModulo.Way01();
 //DSA.Course._01_Mathematics.Problems._09_ModularMultiplicativeInverse.Way01();
 //DSA.Course._01_Mathematics.Problems._10_MatchsticksGame.Way01();
+//DSA.Course._01_Mathematics.Problems._11_NumberGame.Way01();
 
 #endregion
 
@@ -214,6 +215,7 @@
 //DSA.Course._04_Array.Problems._22_GameOfChocolates.Way01();
 //DSA.Course._04_Array.Problems._23_DivideAndSubtractGame.Way01();
 //DSA.Course._04_Array.Problems._24_FractionTrouble.Way01();
+//DSA.Course._04_Array.Problems._25_PatternSearching.Way01();
 
 #endregion
 
