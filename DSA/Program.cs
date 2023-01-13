@@ -226,6 +226,12 @@
 //DSA.Course._05_Search.Videos._01_LinearSearch.Way01();
 //DSA.Course._05_Search.Videos._02_BinarySearchIterative.Way01();
 //DSA.Course._05_Search.Videos._03_BinarySearchRecursive.Way01();
+//DSA.Course._05_Search.Videos._04_IndexOfFirstOccurrenceInSorted.Way01();
+//DSA.Course._05_Search.Videos._04_IndexOfFirstOccurrenceInSorted.Way02();
+//DSA.Course._05_Search.Videos._05_IndexOfLastOccurrenceInSorted.Way01();
+//DSA.Course._05_Search.Videos._05_IndexOfLastOccurrenceInSorted.Way02();
+
+//DSA.Course._05_Search.Problems._03_Count1InBinaryArray.Way01();
 
 #endregion
 
