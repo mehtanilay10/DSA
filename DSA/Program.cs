@@ -230,8 +230,12 @@
 //DSA.Course._05_Search.Videos._04_IndexOfFirstOccurrenceInSorted.Way02();
 //DSA.Course._05_Search.Videos._05_IndexOfLastOccurrenceInSorted.Way01();
 //DSA.Course._05_Search.Videos._05_IndexOfLastOccurrenceInSorted.Way02();
+//DSA.Course._05_Search.Videos._06_CountOccurrencesInSorted.Way01();
+//DSA.Course._05_Search.Videos._06_CountOccurrencesInSorted.Way02();
 
 //DSA.Course._05_Search.Problems._03_Count1InBinaryArray.Way01();
+
+//DSA.Additional._05_Search._01_TernarySearch.Way01();
 
 #endregion
 
