@@ -232,6 +232,11 @@
 //DSA.Course._05_Search.Videos._05_IndexOfLastOccurrenceInSorted.Way02();
 //DSA.Course._05_Search.Videos._06_CountOccurrencesInSorted.Way01();
 //DSA.Course._05_Search.Videos._06_CountOccurrencesInSorted.Way02();
+//DSA.Course._05_Search.Videos._06_CountOccurrencesInSorted.Way03();
+//DSA.Course._05_Search.Videos._07_Count1InSortedBinaryArray.Way01();
+//DSA.Course._05_Search.Videos._07_Count1InSortedBinaryArray.Way02();
+//DSA.Course._05_Search.Videos._08_SquareRootOfNumber.Way01();
+//DSA.Course._05_Search.Videos._08_SquareRootOfNumber.Way02();
 
 //DSA.Course._05_Search.Problems._03_Count1InBinaryArray.Way01();
 
