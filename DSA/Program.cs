@@ -237,6 +237,9 @@
 //DSA.Course._05_Search.Videos._07_Count1InSortedBinaryArray.Way02();
 //DSA.Course._05_Search.Videos._08_SquareRootOfNumber.Way01();
 //DSA.Course._05_Search.Videos._08_SquareRootOfNumber.Way02();
+//DSA.Course._05_Search.Videos._09_SearchInInfiniteSizedArray.Way01();
+//DSA.Course._05_Search.Videos._09_SearchInInfiniteSizedArray.Way02();
+//DSA.Course._05_Search.Videos._10_SearchInSortedRotatedArray.Way01();
 
 //DSA.Course._05_Search.Problems._03_Count1InBinaryArray.Way01();
 

@@ -33,7 +33,7 @@ namespace DSA.Course._05_Search.Videos
 
         private static long Way02FindSqrt(long number)
         {
-            long low = 0;
+            long low = 1;
             long high = number;
             long neartestSqrt = -1;
 
