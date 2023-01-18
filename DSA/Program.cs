@@ -244,6 +244,7 @@
 //DSA.Course._05_Search.Videos._11_FindPeakElement.Way02();
 //DSA.Course._05_Search.Videos._12_TwoPointersApproach.Way01();
 //DSA.Course._05_Search.Videos._12_TwoPointersApproach.Way02();
+//DSA.Course._05_Search.Videos._13_TripletInSortedArray.Way01();
 
 //DSA.Course._05_Search.Problems._03_Count1InBinaryArray.Way01();
 
