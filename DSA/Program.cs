@@ -247,6 +247,7 @@
 //DSA.Course._05_Search.Videos._13_TripletInSortedArray.Way01();
 //DSA.Course._05_Search.Videos._13_TripletInSortedArray.Way02();
 //DSA.Course._05_Search.Videos._14_MedianOfTwoSortedArrays.Way01();
+//DSA.Course._05_Search.Videos._14_MedianOfTwoSortedArrays.Way02();
 
 //DSA.Course._05_Search.Problems._01_FloorInSortedArray.Way01();
 //DSA.Course._05_Search.Problems._03_Count1InBinaryArray.Way01();
